@@ -65,3 +65,18 @@ git remote add origin your_git_url
 git push -u origin main
 
 ```
+## Creo nuova repo su github da template
+
+```bash
+
+#Comandi sul nuovo progetto da terminale
+
+composer install
+
+npm run dev
+
+# copio file .env.example lo incollo e lo rinomino .env 
+
+php artisan key:generate
+
+```
